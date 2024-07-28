@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+loan_risk_env/
+
+# PDF output
+*.pdf
+
+# Image files
+*.png
+
+# Dataset
+*.json
